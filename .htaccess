@@ -5,4 +5,3 @@ Options -Indexes
 ErrorDocument 404 /summer-2016/404.html
 DirectoryIndex index.html
 order deny,allow
-php_flag engine off
