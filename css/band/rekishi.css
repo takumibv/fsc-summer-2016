@@ -1,0 +1,28 @@
+img {
+	width: 100%;
+}
+
+.sf-menu a,
+#fh5co-hero,
+#fh5co-hero .fh5co-hero-wrap .fh5co-hero-intro > h2  {
+	color: #167ac6;
+}
+
+#fh5co-hero .fh5co-hero-wrap .fh5co-hero-intro > h1 {
+	font-weight: bold;
+	text-transform: none;
+}
+
+.sf-menu li:hover a {
+	color: #ACF3D6;
+}
+
+#fh5co-main {
+
+}
+
+@media screen and (max-width: 460px) {
+  #fh5co-hero, .fh5co-hero-wrap {
+    padding: 1em 0 1em 0;
+  }
+}

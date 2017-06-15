@@ -1,0 +1,35 @@
+
+.sf-menu a,
+#fh5co-hero,
+#fh5co-hero .fh5co-hero-wrap .fh5co-hero-intro > h2  {
+	color: #61c0cc;
+}
+
+#fh5co-hero .fh5co-hero-wrap .fh5co-hero-intro > h1 {
+	font-weight: bold;
+	text-transform: none;
+}
+
+.sf-menu li:hover a {
+	color: #3d767d;
+}
+
+#fh5co-main {
+
+}
+
+@media screen and (max-width: 768px){
+	#fh5co-hero .fh5co-hero-wrap .fh5co-hero-intro > h1 {
+	    font-size: 60px;
+	}
+	#fh5co-hero .fh5co-hero-wrap .fh5co-hero-intro > h2 {
+		margin-bottom: 0px;
+	}
+}
+
+@media (min-width: 992px) {
+	.col-md-3 {
+	    width: 25%;
+	    height: 280px;
+	}
+}

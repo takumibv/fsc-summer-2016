@@ -1,0 +1,21 @@
+
+.sf-menu a,
+#fh5co-hero,
+#fh5co-hero .fh5co-hero-wrap .fh5co-hero-intro > h2  {
+	color: #aaa;
+}
+
+#fh5co-hero .fh5co-hero-wrap .fh5co-hero-intro > h1 {
+	font-weight: bold;
+	text-transform: none;
+	font-size: 60px;
+    line-height: 52px;
+}
+
+.sf-menu li:hover a {
+	color: #333;
+}
+
+#fh5co-main {
+
+}

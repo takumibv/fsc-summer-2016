@@ -1,0 +1,12 @@
+<Files ~ "^\.(htaccess|htpasswd)$">
+deny from all
+</Files>
+Options -Indexes
+AuthUserFile /home/users/1/upper.jp-titfolk/web/summer-2016/.htpasswd
+AuthGroupFile /dev/null
+AuthName "Please enter your ID and password"
+AuthType Basic
+require valid-user 
+ErrorDocument 404 /summer-2016/404.html
+DirectoryIndex index.html       
+order deny,allow

@@ -1,0 +1,18 @@
+img {
+	width: 100%;
+}
+
+.sf-menu a,
+#fh5co-hero,
+#fh5co-hero .fh5co-hero-wrap .fh5co-hero-intro > h2  {
+	color: #D02E8A;
+}
+
+#fh5co-hero .fh5co-hero-wrap .fh5co-hero-intro > h1 {
+	font-weight: bold;
+	text-transform: none;
+}
+
+.sf-menu li:hover a {
+	color: #FFB8E0;
+}
